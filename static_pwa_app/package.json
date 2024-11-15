@@ -1,0 +1,11 @@
+{
+  "name": "pwa_app",
+  "version": "1.0.0",
+  "description": "progressive web app test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mr_Uruc",
+  "license": "ISC"
+}
